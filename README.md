@@ -1,5 +1,7 @@
 # Pixel Art Maker Project
 
+This is a project I completed during the challenge phase of Grow With Google scholarship with Udacity. The following content is from Udacity, which contains the original instructions regarding this project.
+
 ## Table of Contents
 
 * [Instructions](#instructions)
